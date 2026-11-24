@@ -1,0 +1,12 @@
+
+pandas
+numpy
+scikit-learn
+azure-ai-ml
+azure-identity
+azure-storage-file-datalake
+python-dotenv
+pyyaml
+matplotlib
+seaborn
+pytest
