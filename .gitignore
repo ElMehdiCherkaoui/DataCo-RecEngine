@@ -5,3 +5,4 @@ __pycache__/
 .pytest_cache/
 *.pyc
 models/*.joblib
+data/raw/
