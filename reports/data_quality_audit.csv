@@ -1,0 +1,13 @@
+Check,Result
+Total Rows,145366
+Total Columns,2
+Earliest Date,2002-01-01 01:00:00
+Latest Date,2018-08-03 00:00:00
+Missing Datetime,0
+Missing PJME_MW,0
+Duplicate Timestamps,4
+Non-Hourly Intervals,34
+Missing Hourly Timestamps,30
+Negative Consumption,0
+Zero Consumption,0
+Potential Outliers,3455
